@@ -11,7 +11,7 @@ end
 
 def link
   responed = "It's Dangerous To Go Alone! Take This."
-  puts respond
+  puts responded
 end
 
 def all_phrases
