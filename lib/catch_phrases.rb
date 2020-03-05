@@ -13,4 +13,6 @@ def link
   responed = "It's Dangerous To Go Alone! Take This."
   puts respond
 end
+
+
   
