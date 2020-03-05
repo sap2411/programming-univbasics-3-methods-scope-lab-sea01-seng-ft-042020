@@ -10,8 +10,8 @@ def toadstool
 end
 
 def link
-  responed = "It's Dangerous To Go Alone! Take This."
-  puts responded
+  respond = "It's Dangerous To Go Alone! Take This."
+  puts respond
 end
 
 def all_phrases
